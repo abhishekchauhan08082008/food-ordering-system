@@ -144,7 +144,7 @@ python Food\_ordering\_system.py
 
 
 
-![Veg Non-Veg Report](screenshots/veg_non-veg Report.jpeg)
+![Veg Non-Veg Report](screenshots/veg_non-veg_Report.jpeg)
 
 
 
@@ -168,7 +168,7 @@ python Food\_ordering\_system.py
 
 
 
-![Delete Food Item](screenshots/Delete_Food_item.jpeg)
+![Delete Food Item](screenshots/Delete_Food_Item.jpeg)
 
 
 
