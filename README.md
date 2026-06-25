@@ -104,7 +104,7 @@ python Food\_ordering\_system.py
 
 
 
-!\[Food Menu](screenshots/Food_menu.jpeg)
+![Food Menu](screenshots/Food_menu.jpeg)
 
 
 
@@ -112,7 +112,7 @@ python Food\_ordering\_system.py
 
 
 
-!\[Place Order](screenshots/place_order.jpeg)
+![Place Order](screenshots/place_order.jpeg)
 
 
 
@@ -120,7 +120,7 @@ python Food\_ordering\_system.py
 
 
 
-!\[Order Confirmation](screenshots/Order_confirmation.jpeg)
+![Order Confirmation](screenshots/Order_Confirmation.jpeg)
 
 
 
@@ -128,7 +128,7 @@ python Food\_ordering\_system.py
 
 
 
-!\[Previous Order](screenshots/Previous_order.jpeg)
+![Previous Order](screenshots/Previous_order.jpeg)
 
 
 
@@ -136,7 +136,7 @@ python Food\_ordering\_system.py
 
 
 
-!\[Top Ordered Foods](screenshots/top_ordered_food.jpeg)
+![Top Ordered Foods](screenshots/top_ordered_food.jpeg)
 
 
 
@@ -144,7 +144,7 @@ python Food\_ordering\_system.py
 
 
 
-!\[Veg Non-Veg Report](screenshots/veg_non-veg_Report.jpeg)
+![Veg Non-Veg Report](screenshots/veg_non-vegReport.jpeg)
 
 
 
@@ -152,7 +152,7 @@ python Food\_ordering\_system.py
 
 
 
-!\[Admin Panel](screenshots/Admin_panel.jpeg)
+![Admin Panel](screenshots/Admin_panel.jpeg)
 
 
 
@@ -160,7 +160,7 @@ python Food\_ordering\_system.py
 
 
 
-!\[Update Price](screenshots/Update_price.jpeg)
+![Update Price](screenshots/Update_price.jpeg)
 
 
 
@@ -168,7 +168,7 @@ python Food\_ordering\_system.py
 
 
 
-!\[Delete Food Item](screenshots/Delete_food_item.jpeg)
+![Delete Food Item](screenshots/Delete_Food_item.jpeg)
 
 
 
@@ -176,7 +176,7 @@ python Food\_ordering\_system.py
 
 
 
-!\[All Orders](screenshots/All_orders.jpeg)
+![All Orders](screenshots/All_orders.jpeg)
 
 
 
@@ -185,6 +185,9 @@ python Food\_ordering\_system.py
 
 
 ![Exit Screen](screenshots/Exit_Screen.jpeg)
+
+
+
 \## Author
 
 
