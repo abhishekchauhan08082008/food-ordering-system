@@ -180,6 +180,11 @@ python Food\_ordering\_system.py
 
 
 
+\### Exit Screen 
+
+
+
+![Exit Screen](screenshots/Exit_Screen.jpeg)
 \## Author
 
 
