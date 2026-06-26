@@ -1,3 +1,13 @@
+![Python](https://img.shields.io/badge/python-3.x-blue?logo=python)
+
+![MySQL](https://img.shields.io/badge/Database-MySQl-oragne?logo=mysql)
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
+
 \# Food Ordering System
 
 
