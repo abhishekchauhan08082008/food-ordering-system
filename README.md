@@ -210,3 +210,12 @@ GitHub:
 
 https://github.com/abhishekchauhan08082008
 
+
+## 💡 What I Learned
+
+- How to design and implement a relational database using MySQL
+- How to connect a Python application to a MySQL database
+- How to implement role-based access (customer vs admin)
+- How to write SQL queries for reports and analytics
+- How to structure a real-world project with clean code
+
